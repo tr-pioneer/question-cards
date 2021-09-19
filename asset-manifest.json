@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/question-cards/static/css/main.1b349bb8.chunk.css",
+    "main.js": "/question-cards/static/js/main.0a7d8f89.chunk.js",
+    "main.js.map": "/question-cards/static/js/main.0a7d8f89.chunk.js.map",
+    "runtime-main.js": "/question-cards/static/js/runtime-main.e746ef00.js",
+    "runtime-main.js.map": "/question-cards/static/js/runtime-main.e746ef00.js.map",
+    "static/js/2.a15d2eb9.chunk.js": "/question-cards/static/js/2.a15d2eb9.chunk.js",
+    "static/js/2.a15d2eb9.chunk.js.map": "/question-cards/static/js/2.a15d2eb9.chunk.js.map",
+    "index.html": "/question-cards/index.html",
+    "static/css/main.1b349bb8.chunk.css.map": "/question-cards/static/css/main.1b349bb8.chunk.css.map",
+    "static/js/2.a15d2eb9.chunk.js.LICENSE.txt": "/question-cards/static/js/2.a15d2eb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e746ef00.js",
+    "static/js/2.a15d2eb9.chunk.js",
+    "static/css/main.1b349bb8.chunk.css",
+    "static/js/main.0a7d8f89.chunk.js"
+  ]
+}
